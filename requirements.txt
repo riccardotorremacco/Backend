@@ -1,0 +1,10 @@
+langchain
+langchain_aws
+langgraph
+python-dotenv
+datetime
+pydantic
+boto3
+botocore
+langchain-community 
+faiss-cpu
