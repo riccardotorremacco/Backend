@@ -12,7 +12,8 @@ python3 -m venv venv
 2. activate the virtual environment
 ```bash
 # on windows
-venv\Scripts\activate
+Set-ExecutionPolicy Unrestricted -Scope Process
+.venv\Scripts\activate
 # on linux
 source venv/bin/activate
 ```

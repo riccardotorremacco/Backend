@@ -1,86 +1,92 @@
-Servizi Demografici del Comune di Napoli
+______________________________
+Arogmenti trattati di cui puoi parlare
+1. Contatti del Comune di Napoli
+2. Accesso al sito del Comune
+3. Unioni Civili e Matrimonio
+4. Servizi Demografici
+5. Servizi Tributari
+6. Luoghi e Attrazioni
+7. Zone a Traffico Limitato (ZTL)
+______________________________
 
-Panoramica del Servizio
+Contatti del Comune di Napoli: contatti:
+- Sito web: https://servizionline.comune.napoli.it/web/guest/home
+- Email: servizionline@comune.napoli.it
+- Numero verde: 800 639 639  | Fax: 081 7951333
+______________________________
 
-I Servizi Demografici online del Comune di Napoli offrono ai cittadini un accesso digitale completo e conveniente a importanti documenti e informazioni anagrafiche.
+Accesso al sito del Comune di Napoli:
+- SPID (Sistema Pubblico di Identità Digitale)
+- CIE (Carta di Identità Elettronica)
+______________________________
 
-Servizi Disponibili
+Passi per Unioni Civili e Matrimonio: per Sposarsi: 
+1. Scarica il modulo: https://www.comune.napoli.it/flex/cm/pages/ServeAttachment.php/L/IT/D/5%252F7%252F2%252FD.79736c2511e6a14982e0/P/BLOB%3AID%3D31072/E/pdf?mode=download
+2. Invia la modulistica compilata agli sportelli della Municipalità di residenza o via PEC.
+3. Appuntamento con l'Ufficiale di Stato Civile.
+4. Dichiarazione dell'intenzione congiunta con due testimoni.
+5. Scelta del regime patrimoniale e del cognome.
+   - Per informazioni: unioni.civili@comune.napoli.it
+______________________________
 
-1. Consultazione Dati Personali
-   - Scheda anagrafica completa
-   - Dati elettorali personali
-   - Download di certificazioni ufficiali
+Servizi Demografici:
+- Accesso digitale ai documenti e informazioni anagrafiche
+- Link: https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/16831
 
-2. Tipologie di Certificati Scaricabili
-   - Stato di famiglia
-   - Certificato di residenza
-   - Certificato di cittadinanza
-   - Certificato di nascita
-   - Certificato di matrimonio
-   - Estratti di nascita e matrimonio
-   - Certificato di esistenza in vita
+Servizi disponibili:
+1. Consultazione dati personali
+2. Scarico certificati (stato di famiglia, residenza, cittadinanza, nascita, matrimonio, esistenza in vita)
+3. Richiesta carta d'identità:
+   - Documento di identità valido (se rinnovo)
+   - Fototessera recente
+   - Codice fiscale
+   - Eventuali documenti di variazione anagrafica
+   - Costo: 22,21 euro
+   - Rilascio entro 6-8 giorni
+   - In caso di smarrimento, denuncia alla questura
+______________________________
 
-Modalità di Accesso
+Indirizzi Sedi Fisiche:
+- Ufficio Centrale: Via S. Caterina a Chiaia, 76
+- Municipalità 1: Seconda Traversa Privata Via dell'Epomeo - Parco Quadrifoglio
+- Municipalità 2: Piazza Dante, 93
+- Municipalità 3: Via Lieti a Capodimonte, 97
+- Municipalità 4: Via Emanuele Gianturco, 99
+- Municipalità 5: Via Giacinto Gigante, 242
 
-Autenticazione
+Gli orari di apertura degli uffici comunali sono:
+Lunedì - Venerdì: 8:30 - 13:30
+Martedì e Giovedì: anche 14:30 - 16:30
 
-L'accesso ai Servizi Demografici è possibile esclusivamente tramite:
+______________________________
 
-A. SPID (Sistema Pubblico di Identità Digitale)
-   - Accesso unico, sicuro e protetto
-   - Valido per servizi pubblici e privati
+Servizi Tributari:
+- Verifica pagamenti TARI, scarico F24, invio messaggi all'ufficio tributi
+- Link: https://servizionline.comune.napoli.it/web/napoli/servizi-tributari
+- Accesso con:
+  1. SPID
+  2. CIE
+  3. CNS (Carta Nazionale dei Servizi)
+______________________________
 
-B. CIE (Carta di Identità Elettronica)
-   - Documento d'identità digitale
-   - Abilitato all'accesso dei servizi online della Pubblica Amministrazione
+Luoghi e attrazioni a Napoli:
+- Pompei: 9:00-19:00, consigliato al mattino
+- Museo Archeologico Nazionale: 9:00-19:30, chiuso lunedì
+- Duomo di Napoli: aperto tutti i giorni
+- Castel dell'Ovo: 9:00-19:00, consigliato al tramonto
+- Via San Gregorio Armeno: aperta tutto il giorno, vivace durante le festività
+______________________________
 
-Funzionalità Principali
-
-1. Scheda Anagrafica
-   - Visualizzazione dati anagrafici
-   - Download file PDF della scheda anagrafica
-   - Consultazione stato di famiglia
-
-2. Autocertificazioni
-   - Presentazione di dichiarazioni sostitutive di certificazioni
-   - Firma digitale senza autenticazione fisica
-   - Validità legale equivalente ai certificati tradizionali
-
-3. Certificazioni Online
-   - Generazione e download immediato di certificati
-   - Procedura completamente digitale
-   - Nessun bisogno di recarsi fisicamente presso gli uffici
-
-Sedi Fisiche
-
-Ufficio Centrale
-- Indirizzo: Via S. Caterina a Chiaia, 76
-
-Municipalità
-
-1. Municipalità 1
-   - Indirizzo: Seconda Traversa Privata Via dell'Epomeo - Parco Quadrifoglio
-
-2. Municipalità 2
-   - Indirizzo: Piazza Dante, 93
-
-3. Municipalità 3
-   - Indirizzo: Via Lieti a Capodimonte, 97
-
-4. Municipalità 4
-   - Indirizzo: Via Emanuele Gianturco, 99
-
-5. Municipalità 5
-   - Indirizzo: Via Giacinto Gigante, 242
-
-Link Utili
-- Portale Servizi Demografici: https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/16831
-
-Note Importanti
-- Destinatari: Servizio riservato ai cittadini
-- Requisito di Accesso: Autenticazione obbligatoria
-- Modalità: Completamente online
-- Validità: Documenti con pieno valore legale
-
-Assistenza
-Per ulteriori informazioni o supporto, contattare gli uffici demografici del Comune di Napoli.
+Zone a Traffico Limitato (ZTL):
+1. ZTL Tarsia - Pignasecca - Piazza Dante
+   - Orari: 9:00-18:00 (Piazza Gesù e Maria), H24 (Domenico Soriano - Area Pedonale Urbana)
+2. ZTL Centro Antico
+   - Via del Sole: Lun-Gio 9:00-22:00, Ven-Dom e festivi 9:00-24:00
+   - Via Miroballo, Via Duomo, Via Santa Sofia: 9:00-17:00
+3. ZTL Belledonne, Martiri, Poerio
+   - Orari: 19:00-7:00, tutti i giorni
+4. ZTL Chiaia
+   - Orari: Sabato 10:00-13:30 e 16:00-22:00
+   - Strade: Via Dei Mille, Via Filangieri, Via S. Caterina a Chiaia, Piazza dei Martiri, Via Morelli, Via S. Maria a Cappella Vecchia, Rampa Caprioli
+5. ZTL Via Padre Gaetano Errico
+   - Orari: 9:00-20:00, tutti i giorni

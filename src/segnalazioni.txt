@@ -1,0 +1,29 @@
+Segnalazione ricevuta dall'utente
+[2025-03-19 17:41:17] Via Vittorio Veneto - strada rotta
+[2025-03-20 10:04:48] Via Vittorio Veneto - strada rotta
+[2025-03-20 11:19:01] Via Vittorio Veneto - strada rotta
+[2025-03-20 11:26:57] Via Vittorio Veneto - strada rotta
+[2025-03-20 11:46:12] Via Vittorio Veneto - strada rotta
+[2025-03-20 15:16:48] Segnalazione di rapina avvenuta in via Vittorio Veneto a Napoli.
+[2025-03-20 16:00:18] Via Vittorio Veneto - strada rotta
+[2025-03-20 16:50:29] Via Vittorio Veneto - strada rotta
+[2025-03-20 17:09:52] Via Vittorio Veneto - strada rotta
+[2025-03-20 17:22:43] Via Vittorio Veneto - strada rotta
+[2025-03-20 20:09:00] Via Vittorio Veneto - strada rotta
+[2025-03-20 20:32:54] Rapina in via Vittorio Veneto
+[2025-03-20 20:33:25] Segnalazione: Tubatura esplosa a Corso Umberto
+[2025-03-20 20:33:43] È esplosa una tubatura a corso Umberto
+[2025-03-20 20:34:07] Segnalazione: strada rotta a via Vittorio Veneto
+[2025-03-20 20:38:56] Rapina segnalata in Corso Umberto
+[2025-03-20 20:44:00] Strada rotta
+[2025-03-20 20:44:14] Via Vittorio Veneto - strada rotta
+[2025-03-20 21:29:54] Via Vittorio Veneto - strada rotta
+[2025-03-20 21:53:58] Via Vittorio Veneto - strada rotta
+[2025-03-20 22:03:00] Via Vittorio Veneto - strada rotta
+[2025-03-21 09:32:57] Strada rotta segnalata dall'utente
+[2025-03-21 09:33:13] Strada rotta
+[2025-03-21 09:35:05] Strada rotta in via Vittorio Veneto
+[2025-03-21 09:46:28] Via Vittorio Veneto - strada rotta
+[2025-03-21 10:37:09] Via Antonio Brancaccio - strada rotta
+[2025-03-21 10:38:12] Rapina subita a Piazza Cavour
+[2025-03-21 12:37:44] Via Vittorio Veneto - strada rotta

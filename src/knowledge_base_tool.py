@@ -6,6 +6,7 @@ from langchain.chains import RetrievalQA
 from langchain_aws import ChatBedrock
 import boto3
 from botocore.config import Config
+import textwrap
 
 class KnowledgeBaseTool:
     """Tool per accedere alla base di conoscenza da un file di testo."""
@@ -18,50 +19,50 @@ class KnowledgeBaseTool:
         
         self.tool = Tool(
             name="knowledge_base",
-            description="Cerca informazioni nella base di conoscenza del Comune di Napoli. Usa questo tool quando l'utente chiede informazioni sui servizi comunali.",
+            description="Cerca informazioni nella base di conoscenza del Comune di Napoli.",
             func=self.query_knowledge_base
         )
     
     def _get_llm(self):
-        bedrock_client = boto3.client(
-            service_name='bedrock-runtime',
-            region_name='eu-west-1',
-            aws_access_key_id=os.getenv('AWS_ACCESS_KEY_ID'),
-            aws_secret_access_key=os.getenv('AWS_SECRET_ACCESS_KEY'),
-            verify=False,
-            config=Config(proxies={'https': None})
-        )
-
-        model = ChatBedrock(
-            model_id="anthropic.claude-3-haiku-20240307-v1:0",
-            client=bedrock_client,
-            model_kwargs={
-                "temperature": 0,
-                "max_tokens": 2000,
-            }
-        )
-        
-        return model
+        # Codice per il modello LLM (come nel tuo esempio)
+        pass
     
     def _create_vectorstore(self):
         with open(self.knowledge_file_path, 'r', encoding='utf-8') as file:
             text = file.read()
         
-        # Creiamo un array con l'intero testo come singolo documento
-        texts = [text]
+        # Suddividi il testo in chunk (ad esempio, per 500 caratteri)
+        chunk_size = 500
+        chunks = textwrap.wrap(text, chunk_size)
         
+        # Creiamo embeddings per ciascun chunk
         embeddings = HuggingFaceEmbeddings(
             model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
         )
         
-        return FAISS.from_texts(texts, embeddings)
-    
+        # Costruisci il vectorstore con i chunk
+        return FAISS.from_texts(chunks, embeddings)
+        
     def query_knowledge_base(self, query):
+   
+
+        # print(self.vectorstore.__dict__)
+        # Fase 2: Recupero informazioni dalla knowledge base
         retriever = self.vectorstore.as_retriever(
             search_type="similarity",
-            search_kwargs={"k": 1}  # Recupera solo il documento più rilevante
+            search_kwargs={"k": 3}  # Recupera più documenti per dare più contesto
         )
         
+
+        #print(f"\n\n\n\n\nretriever: {retriever.get_relevant_documents("SERVIZI TRIBUTARI")}")
+#        docs = retriever.get_relevant_documents(query)
+        docs = retriever.invoke(query)
+
+#print("\n\n\n\n\nDocumenti recuperati:", docs)
+        return docs
+
+
+
         qa_chain = RetrievalQA.from_chain_type(
             llm=self.model,
             chain_type="stuff",
@@ -69,8 +70,10 @@ class KnowledgeBaseTool:
             return_source_documents=True
         )
         
+        # Risposta alla query
         result = qa_chain.invoke({"query": query})
-        
+        print('KB_Result: ',result['result'])
+
         return result['result']
 
     def get_tool(self):
